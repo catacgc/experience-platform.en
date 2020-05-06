@@ -25,6 +25,7 @@ To be able to send data to Adobe Experience Platform, you must create an XDM sch
   - ExperienceEvent Implementation Details
   - ExperienceEvent Environment Details
   - ExperienceEvent Web Details
+  - Data capture region for Experience Events
 - Add the Adobe Experience Platform Web SDK mixin to the schema you created
 - [Create a dataset](https://platform.adobe.com/dataset/overview) with your schema where you would like the data to land
 
